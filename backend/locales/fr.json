@@ -1,0 +1,23 @@
+{
+  "auth": {
+    "register_success": "Inscription réussie. Veuillez vérifier votre adresse email.",
+    "email_exists": "Cet e-mail est déjà utilisé.",
+    "login_success": "Connexion réussie.",
+    "invalid_credentials": "Email ou mot de passe invalide.",
+    "unauthorized": "Accès non autorisé.",
+    "server_error": "Une erreur est survenue. Veuillez réessayer.",
+    "logout_success": "Déconnexion réussie.",
+    "email_not_verified": "Veuillez vérifier votre adresse email avant de vous connecter."
+  },
+  "user": {
+    "profile_updated": "Profil mis à jour avec succès.",
+    "password_changed": "Mot de passe mis à jour avec succès.",
+    "wrong_password": "Mot de passe actuel incorrect.",
+    "same_password": "Le nouveau mot de passe doit être différent de l'ancien.",
+    "not_found": "Utilisateur non trouvé."
+  },
+  "email": {
+    "verify_subject": "Confirmation de votre adresse email",
+    "verify_message": "Veuillez confirmer votre adresse email en cliquant sur le lien ci-dessous."
+  }
+}

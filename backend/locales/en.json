@@ -1,0 +1,23 @@
+{
+  "auth": {
+    "register_success": "Registration successful. Please verify your email address.",
+    "email_exists": "This email is already in use.",
+    "login_success": "Login successful.",
+    "invalid_credentials": "Invalid email or password.",
+    "unauthorized": "Unauthorized access.",
+    "server_error": "An error occurred. Please try again.",
+    "logout_success": "Logout successful.",
+    "email_not_verified": "Please verify your email address before logging in."
+  },
+  "user": {
+    "profile_updated": "Profile updated successfully.",
+    "password_changed": "Password updated successfully.",
+    "wrong_password": "Current password is incorrect.",
+    "same_password": "The new password must be different from the current one.",
+    "not_found": "User not found."
+  },
+  "email": {
+    "verify_subject": "Confirm your email address",
+    "verify_message": "Please confirm your email by clicking the link below."
+  }
+}
